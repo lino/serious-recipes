@@ -2,6 +2,13 @@
 Das Israelische Nationalgericht schmeckt ganz anders als man es
 aus deutschen Supermarktregalen gewohnt ist. Das liegt vor allem
 an der Zugabe von Tahin. Den kann man fertig kaufen oder selber machen.
+Diese Version ist wie mehrere Israelis empfohlen haben für das Verhältnis
+50:50 aus Tahin und Kichererbsen. Wenn man nur schlechten Tahin hat oder ihn
+nicht mag, kann man den Tahinanteil deutlich reduzieren oder ganz weg lassen,
+muss dann aber bei der Führung der Masse entsprechend mehr Wasser zugeben.
+Die Zielkonsistenz ist Geschmackssache, ich Empfehle eine Konsistenz bei der
+die Masse noch selbständig fließen kann. Die Konsistenz wird beim Abkühlen
+deutlich fester.
 
 ## Zutaten für 1 großen Teller
 * 250g Tahin

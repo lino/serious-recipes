@@ -13,6 +13,16 @@ an der Zugabe von Tahin. Den kann man fertig kaufen oder selber machen.
 * 1 Bund Petersilie (glatt) pro 250g eingeweichte Kichererbsen
 * Chili nach Geschmack
 
+## Gewürze für das Kichererbsenwasser (nach Geschmack)
+Großzügig würzen
+* Knoblauch
+* Kurkuma
+* Kreuzkümmel
+* Chili
+* Asafoetida
+* Lorbeerblatt
+* (kein Salz)
+
 ## Zubereitung
 Bei Verwendung von Kichererbsen aus der Dose erübrigt sich das Zubereiten. Sonst:
 1. Kichererbsen (oder Chana dal, geschälte Kichererbsen aus dem Indien-Shop) über Nacht in Wasser einweichen. Wasser abgießen, ggf. für Verwendung als veganen Eischnee aufbewahren.
@@ -25,6 +35,7 @@ Bei Verwendung von Kichererbsen aus der Dose erübrigt sich das Zubereiten. Sons
 * 500g Sesam (geschält)
 * Prise Salz
 * 2-4 TL Neutrales Öl
+
 ## Zubereitung
 1. Backofen auf 175 Grad Celsius vorheizen
 2. Sesam auf Backblech ausbreiten

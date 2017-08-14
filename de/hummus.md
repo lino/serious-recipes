@@ -37,19 +37,29 @@ Bei Verwendung von Kichererbsen aus der Dose erübrigt sich das Zubereiten. Sons
 3. Zusammen mit Tahin, Chili, Salz, Pfeffer, Knoblauch, Zitronensaft, Petersilie und Kreuzkümmel in der Küchenmaschine pürieren.
 4. Abkühlen lassen und auf Teller mit Olivenöl und Fladenbrot servieren.
 
-# Tahin
-## Zutaten 
-* 500g Sesam (geschält)
-* Prise Salz
-* 2-4 TL Neutrales Öl
+## Skalierung
 
-## Zubereitung
-1. Backofen auf 175 Grad Celsius vorheizen
-2. Sesam auf Backblech ausbreiten
-3. Sesam für fünf Minuten im Backofen ohne Fett rösten
-4. Sesam wenden
-5. Nochmal für fünf Minuten in den Backofen
-6. Alles zusammen in die Küchenmaschine zur Zerkleinerung
-7. Fertig
+| Menge  | Beschreibung  | Preis  |
+|--------+---------------+--------|
+| 2000g  | Chana dal     | 6 EUR  |
+| 10000g  | Tahin         | 50 EUR |
+| 150g   | Kreuzkümmel   | 3 EUR  |
+| 300g   | Knoblauch     | 3 EUR  |
+| 1600ml | Zitronensaft  | 4 EUR  |
+| 250g   | Petersilie GT | 3 EUR  |
+|        | Chili         | 1 EUR  |
 
+Ergibt ca 22kg Hummus für 70 EUR Materialkosten (3,20 / kg)
 
+Zur Kostensenkung kann der Tahinanteil reduziert werden
+
+| Tahinanteil | Ertrag in Kg | Materialkosten | €/kg | 125g Port | €/125g | 250g Port | €/250g |
+|-------------+--------------+----------------+------+-----------+--------+-----------+--------|
+|         0.5 |          17. |            45. | 2.65 |       136 |   0.33 |        68 |   0.66 |
+|         0.4 |          16. |            40. | 2.50 |       128 |   0.31 |        64 |   0.62 |
+|         0.3 |          15. |            35. | 2.33 |       120 |   0.29 |        60 |   0.58 |
+|         0.2 |          14. |            30. | 2.14 |       112 |   0.27 |        56 |   0.54 |
+|         0.1 |          13. |            25. | 1.92 |       104 |   0.24 |        52 |   0.48 |
+|         0.0 |          12. |            20. | 1.67 |        96 |   0.21 |        48 |   0.42 |
+#+TBLFM: $2=12+10*$1::$3=20+50*$1::$4=$3/$2;%.2f::$5=$2/0.125;%d::$6=$4*0.125;%.2f::$7=$2/0.250;%d::$8=$4*0.250;%.2f
+   

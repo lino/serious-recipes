@@ -1,0 +1,29 @@
+# Tahin
+Man kann experimentieren ob ungeschälter oder geschälter Sesam besser
+passt, wer die Textur sehr weich haben will gießt das fertige Tahin
+durch einen Nussmilchbeutel.
+Bei der Herstellung von Tahin für Hummus kann man durchaus Wasser für
+die Maschinengängigkeit hinzufügen, das sollte dann entsprechend
+weniger bei der Hummusherstellung zugefügt werden.
+
+## Zutaten 
+* 500g Sesam (geschält)
+* Prise Salz
+* 2-4 EL Neutrales Öl
+* ggf. Wasser
+
+## Zubereitung
+1. Backofen auf 175 Grad Celsius vorheizen
+2. Sesam auf Backblech ausbreiten
+3. Sesam für fünf Minuten im Backofen ohne Fett rösten
+4. Sesam wenden
+5. Nochmal für fünf Minuten in den Backofen
+6. Alles zusammen in die Küchenmaschine zur Zerkleinerung
+
+## Preis
+| Menge | Zutat | Preis |
+|-
+| 1000g | Sesam | 6 |
+| 50ml | Öl |   |
+
+Kilopreis ca EUR 6, kann bis zu 25% mit Wasser oder Öl gestreckt werden > EUR 4.50

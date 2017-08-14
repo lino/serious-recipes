@@ -10,11 +10,11 @@ Die Zielkonsistenz ist Geschmackssache, ich Empfehle eine Konsistenz bei der
 die Masse noch selbständig fließen kann. Die Konsistenz wird beim Abkühlen
 deutlich fester.
 
-** Zutaten für 1 großen Teller
+** Zutaten
 |-------+---------+---------------------------------|
 | Menge | Einheit | Beschreibung                    |
 |-------+---------+---------------------------------|
-|     1 | Teller  | ergibt 1 Teller (550g)          |
+|     1 | Teller  | ergibt n Teller (550g)          |
 |-------+---------+---------------------------------|
 |   250 | g       | Tahin                           |
 |    50 | g       | Getrocknete Kichererbsen (oder) |

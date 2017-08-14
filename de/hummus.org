@@ -50,17 +50,19 @@ deutlich fester.
 
 ** Beispielkostenrechnung
 
- | Menge  | Beschreibung  | Preis  |
- |--------+---------------+--------|
- | 2000g  | Chana dal     | 6 EUR  |
- | 10000g | Tahin         | 50 EUR |
- | 150g   | Kreuzkümmel   | 3 EUR  |
- | 300g   | Knoblauch     | 3 EUR  |
- | 1600ml | Zitronensaft  | 4 EUR  |
- | 250g   | Petersilie GT | 3 EUR  |
- |        | Chili         | 1 EUR  |
-
- Ergibt ca 22kg Hummus für 70 EUR Materialkosten (3,20 / kg)
+ | Menge | Einheit | Beschreibung            | Preis EUR |
+ |-------+---------+-------------------------+-----------|
+ | 10000 | g       | Chana dal gar (aus 2kg) |         6 |
+ | 10000 | g       | Tahin                   |        50 |
+ |   150 | g       | Kreuzkümmel             |         3 |
+ |   300 | g       | Knoblauch               |         3 |
+ |  1600 | ml      | Zitronensaft            |         4 |
+ |   250 | g       | Petersilie GT           |         3 |
+ |       |         | Chili                   |         1 |
+ |-------+---------+-------------------------+-----------|
+ | 22300 | g       | Materialkosten gesamt   |        70 |
+ |     1 | kg      | Materialkosten / kg     |      3.14 |
+ #+TBLFM: @9$1=vsum(@I..@II)::@9$4=vsum(@I..@II)::@10$4=@9$4 / (@9$1/1000);%.2f
 
  Zur Kostensenkung kann der Tahinanteil reduziert werden
 

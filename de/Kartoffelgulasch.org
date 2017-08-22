@@ -1,0 +1,26 @@
+* Kartoffelgulasch
+** Zutaten
+
+| Anzahl | Einheit | Zutat                                           |
+|--------+---------+-------------------------------------------------|
+|    500 | g       | Kartoffeln                                      |
+|    750 | ml      | Wasser                                          |
+|    200 | g       | Tomaten                                         |
+|    100 | g       | Champignons                                     |
+|    100 | g       | Paprika                                         |
+|      2 | Stck    | große Zwiebeln                                  |
+|      2 | Zehen   | Knoblauch                                       |
+|        |         | Majoran, Thymian, Worcestersauce/Sojasauce,     |
+|        |         | Pfeffer, Muskat, Salz, Gemüsebrühe, Hefeflocken |
+|     50 | g       | Margarine                                       |
+|    200 | ml      | Sojasahne/Sojasauerrahm                         |
+
+** Zubereitung
+ - Kartoffeln waschen, schälen, in 1cm Würfel schneiden und in Salzwasser kochen
+ - Zwiebeln und Knoblauch schälen, in Würfel schneiden und in Margarine andünsten
+ - Paprika in 2x2cm Stücke und Champignons in Scheibchen schneiden, Tomaten achteln
+ - erst Paprika und dann Tomaten in die Pfanne geben, kurz aufkochen
+ - Champignons dazugeben
+ - mit Gewürzen abschmecken, Herd abschalten und durchziehen lassen
+ - Kartoffeln zu dem übrigen Gemüse geben
+ - mit der Sojasahne abbinden und mit frischen Gartenkräutern bestreuen

@@ -1,0 +1,20 @@
+* Chai-Sirup
+** Zutaten
+
+| Anzahl | Einheit | Zutat                                                        |
+|--------+---------+--------------------------------------------------------------|
+|    500 | ml      | Wasser                                                       |
+|    400 | g       | Zucker                                                       |
+|        |         | Ingwer, Anis, Nelken, Zimt, Pfefferkörner, Kardamom, Vanille |
+|        |         | ggf. Schwarztee                                              |
+
+** Zubereitung
+  
+- falls gewünscht Schwarztee kochen
+- Zucker im Topf leicht anschwitzen, sodass es leicht karamellisiert
+- mit Wasser/Tee ablöschen, Gewürze in einem Teebeutel hinzufügen und einkochen, bis das ganze Sirupkonsistenz hat (dickt nach)
+
+** Anmerkungen
+
+- Zucker, Gewürze und Wasser/Tee können auch direkt zusammengekippt werden, karamellisieren ist nervig, gibt halt ein paar zusätzliche Aromen
+- Sirup hält sich gekühlt ewig und kann für Chais oder für Granola verwendet werden.

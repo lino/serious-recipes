@@ -1,0 +1,24 @@
+* Schokobrownies
+** Zutaten
+| Menge | Einheit | Zutat                |
+|-------+---------+----------------------|
+|   125 | g       | Mehl                 |
+|   200 | g       | Zucker               |
+|    40 | g       | Kakao                |
+|     1 | TL      | Backpulver           |
+|   1/2 | TL      | Salz                 |
+|   240 | ml      | warmes Wasser        |
+|     1 | TL      | Vanilleextrakt       |
+|    70 | ml      | neutrales Pflanzenöl |
+
+*** Optional
+ - 1 Tafel Schokolade in kleine Stückchen gebrochen
+ - TK Himbeeren
+ - Erdnussbutter, löffelchenweise
+
+** Zubereitung
+ - trockene Zutaten gut vermischen
+ - flüssige Zutaten drunter mixen
+ - in eine gefettete und gemehlte Auflaufform gießen, für 1 Backblech doppelte Menge
+ - ggf. Schokolade, Erdnussbutter etc. drüberstreuen
+ - bei 180°C ca. 30 Minuten backen

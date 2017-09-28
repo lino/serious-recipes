@@ -1,0 +1,16 @@
+* Knoblauchsuppe
+* Zutaten
+| Anzahl | Einheit  | Zutat          |
+|--------+----------+----------------|
+|     24 |          | Knoblauchzehen |
+|      4 | Scheiben | Toastbrot      |
+|      4 | EL       | Olivenöl       |
+|      4 |          | Tomaten        |
+|      1 | l        | Gemüsebrühe    |
+|      1 | Blatt    | Lorbeer        |
+|    1/2 | TL       | Oregano        |
+|      1 | Prise    | Chilipulver    |
+* Zubereitung
+ - Knoblauchzehen im Öl kurz anbraten, Brot gewürfelt und Tomaten geachtelt dazugeben
+ - restliche Zutaten dazugeben und solange kochen, bis Knoblauch und Tomaten weich sind
+ - Lorbeerblatt entfernen und Suppe gut pürieren

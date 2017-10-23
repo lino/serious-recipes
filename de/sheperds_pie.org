@@ -4,10 +4,10 @@
 | Anzahl | Einheit | Zutat                    |
 |--------+---------+--------------------------|
 |    800 | g       | Kartoffeln               |
-|      3 | Stck    | Karotten                 |
+|      4 | Stck    | Karotten                 |
 |    1/4 | Stck    | Sellerie                 |
 |      1 | Stck    | Zwiebel                  |
-|    100 | g       | Champignons              |
+|    200 | g       | Champignons              |
 |      4 | Zehen   | Knoblauch                |
 |      2 | EL      | Tomatenpaste             |
 |      1 | EL      | Mehl                     |
@@ -17,9 +17,7 @@
 |        |         | Kräuter(Salbei, Thymian) |
 |    600 | ml      | Gemüsebrühe              |
 |      1 | Schuss  | Rotwein                  |
-|    600 | ml      | Pflanzenmilch            |
-
-
+|    300 | ml      | Pflanzenmilch            |
 * Zubereitung
  - Kartoffeln schälen, in gleichmäßige Würfel schneiden und in Salzwasser kochen
  - Karotten, Sellerie, Zwiebeln und Champignons schneiden
@@ -29,6 +27,6 @@
  - Tomatenmark unterrühren, dann das Mehl dazu und gut vermischen
  - mit der Gemüsebrühe langsam angießen, sodass es andickt
  - Gewürze und einen Schuss Rotwein dazugeben
- - Kartoffeln gut stampfen, dann Margarine und Pflanzenmilch dazugeben und mit Salz und Pfeffer abschmecken
+ - Kartoffeln gut stampfen, dann Margarine und Pflanzenmilch dazugeben, bis es ein weicher Brei wird und mit Salz und Pfeffer abschmecken
  - in einer Auflaufform das Gemüse einfüllen, vorsichtig mit Kartoffelbrei bestreichen, mit etwas Öl bestreichen und ca 10-15 Minuten bei Oberhitze 200°C grillen bis der Kartoffelbrei bräunt
 

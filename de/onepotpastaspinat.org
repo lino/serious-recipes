@@ -1,0 +1,18 @@
+* One Pot Pasta Spinat
+
+** Zutaten
+| Menge | Einheit | Zutat                                  |
+|-------+---------+----------------------------------------|
+|   500 | g       | Nudeln                                 |
+|     1 | Stck    | Zwiebel                                |
+|   400 | g       | Blattspinat                            |
+|     1 | l       | Sojamilch                              |
+|       |         | Knoblauch, Salz, Pfeffer, Muskat, Zimt |
+|       |         | Öl zum Anbraten                        |
+|   150 | g       | Sojaschmand                            |
+
+** Zubereitung
+
+- Zwiebel würfeln und in Öl leicht anbraten
+- restliche Zutaten außer Sojaschmand dazugeben und kochen, bis Nudeln gar sind
+- zum Schluss den Sojaschmand unterrühren

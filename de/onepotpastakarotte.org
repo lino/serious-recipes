@@ -1,0 +1,21 @@
+* One Pot Pasta mit Karotte
+
+** Zutaten
+
+| Einheit | Menge | Zutat                           |
+|---------+-------+---------------------------------|
+|     400 | ml    | Kokosmilch                      |
+|       2 | Stück | Zwiebeln                        |
+|       3 | Stück | Karotten                        |
+|     500 | g     | Nudeln                          |
+|     600 | ml    | Wasser                          |
+|         |       | Currygewürze, Salz, Hefeflocken |
+|         |       | Öl zum Anbraten                 |
+
+** Zubereitung
+
+- Zwiebeln kleinschneiden und in etwas Öl anbraten
+- Karotten grob reiben und mit den anderen Zutaten außer Hefeflocken in den Topf geben
+- wenn alle Nudeln unter die Flüssigkeit gedrückt werden können noch ca. 10 Minuten kochen
+- Hefeflocken zum Schluss druntermischen
+

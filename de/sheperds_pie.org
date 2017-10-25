@@ -1,0 +1,32 @@
+* Sheperd's Pie
+
+* Zutaten
+| Anzahl | Einheit | Zutat                    |
+|--------+---------+--------------------------|
+|    800 | g       | Kartoffeln               |
+|      4 | Stck    | Karotten                 |
+|    1/4 | Stck    | Sellerie                 |
+|      1 | Stck    | Zwiebel                  |
+|    200 | g       | Champignons              |
+|      4 | Zehen   | Knoblauch                |
+|      2 | EL      | Tomatenpaste             |
+|      1 | EL      | Mehl                     |
+|        |         | Bratöl                   |
+|      2 | EL      | Pflanzenmargarine        |
+|        |         | Salz und Pfeffer         |
+|        |         | Kräuter(Salbei, Thymian) |
+|    600 | ml      | Gemüsebrühe              |
+|      1 | Schuss  | Rotwein                  |
+|    300 | ml      | Pflanzenmilch            |
+* Zubereitung
+ - Kartoffeln schälen, in gleichmäßige Würfel schneiden und in Salzwasser kochen
+ - Karotten, Sellerie, Zwiebeln und Champignons schneiden
+ - erst Zwiebeln, dann Sellerie, dann Karotten mit Öl in der Pfanne anbraten
+ - zuletzt die Champignons dazugeben und kurz andünsten
+ - Knoblauch fein gehackt dazugeben
+ - Tomatenmark unterrühren, dann das Mehl dazu und gut vermischen
+ - mit der Gemüsebrühe langsam angießen, sodass es andickt
+ - Gewürze und einen Schuss Rotwein dazugeben
+ - Kartoffeln gut stampfen, dann Margarine und Pflanzenmilch dazugeben, bis es ein weicher Brei wird und mit Salz und Pfeffer abschmecken
+ - in einer Auflaufform das Gemüse einfüllen, vorsichtig mit Kartoffelbrei bestreichen, mit etwas Öl bestreichen und ca 10-15 Minuten bei Oberhitze 200°C grillen bis der Kartoffelbrei bräunt
+

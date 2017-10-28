@@ -1,0 +1,13 @@
+* Himberbowle
+** Zutaten
+| Anzahl | Einheit | Zutat        |
+|--------+---------+--------------|
+|    0.7 | l       | Gin          |
+|    1.5 | l       | Prosecco     |
+|    1.5 | l       | Sprite       |
+|    700 | g       | TK-Himbeeren |
+
+** Zubereitung
+- Himbeeren min 2h in Gin einweichen und auftauen lassen
+- restliche Zutaten hinzugeben
+- enjoy!
